@@ -1,0 +1,7 @@
+<meta>
+	<info author="WalkGS" type="script" version="1.0"/>
+	<script src="System_Client.lua" type="client"></script>
+	<script src="System_Server.lua" type="server"></script>
+	--GIROFLEX
+	<file src="sounds/police-light.mp3"/>
+</meta>
